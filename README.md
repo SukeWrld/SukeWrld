@@ -1,5 +1,5 @@
 
-Desarrollo de aplicaciones web escalables con React, Tailwind CSS y Node.js / Express.<br><br>Gestión de bases de datos y análisis de datos utilizando Python y arquitectura Cloud en AWS y Azure.
+Desarrollador de aplicaciones web escalables con React, Tailwind CSS y Node.js / Express.<br><br>Gestión de bases de datos y análisis de datos utilizando Python y arquitectura Cloud en AWS y Azure.
 
 
 
